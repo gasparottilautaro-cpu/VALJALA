@@ -1,0 +1,13 @@
+VALJALA STOK - archivos web corregidos para instalación PWA
+
+Subí TODOS los archivos de este ZIP directamente a la raíz del repositorio GitHub Pages, reemplazando los archivos existentes:
+- index.html
+- manifest.json
+- sw.js
+- icon-192.png
+- icon-512.png
+- LEEME.txt
+
+Luego esperá a que GitHub Pages publique los cambios. En Android, abrí el sitio en Google Chrome, recargá la página y buscá en el menú ⋮ la opción Instalar aplicación. Si ya habías creado un acceso directo, podés quitarlo y volver a instalar después de publicar los cambios.
+
+Los datos de stock se guardan localmente en el navegador/dispositivo.
